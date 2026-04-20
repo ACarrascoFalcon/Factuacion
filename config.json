@@ -1,0 +1,45 @@
+{
+  "config": {
+    "carpeta_origen": "C:/Users/Daniel/Documents/Scripts/Marca N/Entrada",
+    "carpeta_salida": "C:/Users/Daniel/Documents/Scripts/Marca N/Resultados",
+    "mes_proceso": "Marzo",
+    "anio_proceso": "2025"
+  },
+  "tabla_precios": [
+    {"nombre": "CEM I III CN", "precio": 409.20},
+    {"nombre": "CEM I III AQ", "precio": 265.67},
+    {"nombre": "CEM II/V CN", "precio": 372.23},
+    {"nombre": "CEM II/V AQ", "precio": 228.70},
+    {"nombre": "CEM IV CN", "precio": 421.01},
+    {"nombre": "CEM IV AQ", "precio": 277.48},
+    {"nombre": "BL I CN", "precio": 502.31},
+    {"nombre": "BL I AQ", "precio": 358.78},
+    {"nombre": "BL II CN", "precio": 465.34},
+    {"nombre": "BL II AQ", "precio": 321.81},
+    {"nombre": "BL 22,5 CN", "precio": 646.38},
+    {"nombre": "BL 22,5 AQ", "precio": 502.85},
+    {"nombre": "CEM I III ALCALIS", "precio": 358.41},
+    {"nombre": "CEM I III CN ALCALIS", "precio": 501.94},
+    {"nombre": "CEM I III LH", "precio": 398.68},
+    {"nombre": "CEM I III CN LH", "precio": 542.21},
+    {"nombre": "CEM II V LH", "precio": 410.49},
+    {"nombre": "CEM II V CN LH", "precio": 554.02},
+    {"nombre": "CEM I (Cr sin ox)", "precio": 91.07},
+    {"nombre": "CEM II (Cr nuevo)", "precio": 126.68},
+    {"nombre": "K Normal y SR", "precio": 323.63},
+    {"nombre": "K BL", "precio": 416.74},
+    {"nombre": "Ceniza", "precio": 369.22},
+    {"nombre": "Ceniza SR/MR", "precio": 538.01},
+    {"nombre": "Puzolana", "precio": 369.22},
+    {"nombre": "Puzolana SR/MR", "precio": 538.01},
+    {"nombre": "Escoria", "precio": 311.40},
+    {"nombre": "Caliza", "precio": 253.03},
+    {"nombre": "Informe", "precio": 11.51}
+  ],
+  "tabla_referencias": [
+    {"nombre": "Lleva CN", "valor": 1, "celda": "N3"},
+    {"nombre": "CrVI normal", "valor": 2, "celda": "O3"},
+    {"nombre": "CrVI nuevo", "valor": 3, "celda": "P3"},
+    {"nombre": "Solo informe", "valor": 4, "celda": "Q3"}
+  ]
+}
